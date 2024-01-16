@@ -1,13 +1,9 @@
 ### Hi I' am Leandro 👋
  
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/LeandroPossamai/LeandroPossamai/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 
  I am an enthusiastic beginner front-end developer. Currently, my focus lies in honing my skills with ReactJS and Next.js. My passion revolves around uncovering new technologies and leveraging them to craft high-quality solutions. As a novice in the field, I eagerly embrace the learning curve, aiming to contribute to the ever-evolving landscape of web development.
 <p align="center"
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LeandroPossamai&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-LeandroPossamai.vercel.app/api/top-langs/?username=LeandroPossamai&show_icons=true&theme=radical&layout=compact" />
- </div>
+
  
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroPossamai&layout=compact)
 
