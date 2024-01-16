@@ -1,5 +1,5 @@
 ### Hi I' am Leandro 👋
-
+ 
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/LeandroPossamai/LeandroPossamai/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 
  I am an enthusiastic beginner front-end developer. Currently, my focus lies in honing my skills with ReactJS and Next.js. My passion revolves around uncovering new technologies and leveraging them to craft high-quality solutions. As a novice in the field, I eagerly embrace the learning curve, aiming to contribute to the ever-evolving landscape of web development.
