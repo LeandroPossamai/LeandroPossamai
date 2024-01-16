@@ -1,7 +1,7 @@
 ### Hi I' am Leandro 👋
 
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/LeandroPossamai/LeandroPossamai/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+
  I am an enthusiastic beginner front-end developer. Currently, my focus lies in honing my skills with ReactJS and Next.js. My passion revolves around uncovering new technologies and leveraging them to craft high-quality solutions. As a novice in the field, I eagerly embrace the learning curve, aiming to contribute to the ever-evolving landscape of web development.
 <p align="center"
 <div  align="center" style="margin-bottom:100px">
@@ -30,6 +30,7 @@
 
 #### Secondary Stack:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Androidstudio](https://camo.githubusercontent.com/0fb652979647ed645c5d7e2e1e206cc17b059a0d88edbe8a1a8a9f5fefc05279/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69645f53747564696f2d3344444338343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f69642d73747564696f266c6f676f436f6c6f723d7768697465)&nbsp;
 
 
 #### Studying in this moment:
