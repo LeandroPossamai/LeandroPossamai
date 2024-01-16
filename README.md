@@ -9,8 +9,7 @@
 <img width=40% align="center" src="https://github-readme-stats-git-main-LeandroPossamai.vercel.app/api/top-langs/?username=LeandroPossamai&show_icons=true&theme=radical&layout=compact" />
  </div>
  
- &nbsp;
- &nbsp;
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroPossamai&layout=compact)
 
 
 
