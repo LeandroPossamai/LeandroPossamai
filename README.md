@@ -1,7 +1,7 @@
 ### Hi I' am Leandro 👋
- 
+ Sou Leandro, QA Pleno apaixonado por qualidade de software. Atualmente, meu foco está em testes automatizados utilizando Cypress, garantindo a confiabilidade e a estabilidade das aplicações. Tenho experiência na criação e manutenção de suites de testes end-to-end, integração de testes em pipelines de CI/CD e na identificação de falhas antes que cheguem à produção. Acredito que a qualidade é responsabilidade de todos e busco sempre colaborar com os times de desenvolvimento para entregar soluções robustas e com excelente experiência para o usuário final.
 
- I am an enthusiastic beginner front-end developer. Currently, my focus lies in honing my skills with ReactJS and Next.js. My passion revolves around uncovering new technologies and leveraging them to craft high-quality solutions. As a novice in the field, I eagerly embrace the learning curve, aiming to contribute to the ever-evolving landscape of web development.
+ 
 <p align="center"
 
  
